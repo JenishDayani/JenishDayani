@@ -52,9 +52,9 @@
 
 ## 🤝 Let’s Connect
 
-- 💼 LinkedIn: *(add your LinkedIn link here)*
-- 🌐 Portfolio: *(add your portfolio link if any)*
-- 📧 Email: *(optional)*
+- 💼 LinkedIn: *https://www.linkedin.com/in/jenish-dayani/*
+- 🌐 Portfolio: *https://jenish-dayani.vercel.app/*
+- 📧 Email: *dayanijenish567@gmail.com*
 
 ---
 

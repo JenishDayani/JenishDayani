@@ -1,16 +1,61 @@
-## Hi there 👋
+# Hi 👋, I'm Jenish Dayani
 
-<!--
-**JenishDayani/JenishDayani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Frontend / Full-Stack Developer | React • MERN • TypeScript  
+🎓 MCA Student | Passionate about building clean & scalable web apps  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 💼 Working as a **Frontend / Full-Stack Developer**
+- 🌱 Currently focused on **React, TypeScript, Next.js & MERN Stack**
+- 🧠 Love converting complex UI/UX into smooth user experiences
+- 🔧 Experience with real-world dashboards, forms, editors & upload flows
+- 🎯 Goal: Build products that are **fast, simple & user-friendly**
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend**
+- React.js, Next.js
+- TypeScript, JavaScript (ES6+)
+- HTML5, CSS3, MUI, Tailwind CSS
+
+**Backend**
+- Node.js, Express.js
+- MongoDB
+
+**Tools & Platforms**
+- Git & GitHub
+- Netlify, Vercel
+- REST APIs
+- TinyMCE, Uppy, Socket.io
+
+---
+
+## 📌 What I’m Working On
+
+- 🔹 Advanced React + TypeScript projects  
+- 🔹 Real-time & form-heavy applications  
+- 🔹 Scalable UI architectures  
+- 🔹 Improving performance & UX details  
+
+---
+
+## 📈 GitHub Stats
+
+> Consistency > Perfection  
+> Always learning, always building 🚀
+
+---
+
+## 🤝 Let’s Connect
+
+- 💼 LinkedIn: *(add your LinkedIn link here)*
+- 🌐 Portfolio: *(add your portfolio link if any)*
+- 📧 Email: *(optional)*
+
+---
+
+⭐ If you like my work, consider giving a star to my repositories!

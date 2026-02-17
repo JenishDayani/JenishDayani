@@ -1,61 +1,65 @@
-# Hi 👋, I'm Jenish Dayani
+<h1 align="center">
+  Hi 👋, I'm Jenish Dayani
+</h1>
 
-🚀 Frontend / Full-Stack Developer | React • MERN • TypeScript  
-🎓 MCA Student | Passionate about building clean & scalable web apps  
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Frontend+Developer;MERN+Stack+Developer;React+%7C+Next.js+%7C+TypeScript;Building+Clean+%26+Scalable+UIs"
+    alt="Typing SVG" 
+  />
+</p>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-- 💼 Working as a **Frontend / Full-Stack Developer**
-- 🌱 Currently focused on **React, TypeScript, Next.js & MERN Stack**
-- 🧠 Love converting complex UI/UX into smooth user experiences
-- 🔧 Experience with real-world dashboards, forms, editors & upload flows
-- 🎯 Goal: Build products that are **fast, simple & user-friendly**
+- 💼 Frontend / Full-Stack Developer  
+- 🎓 MCA Student  
+- ⚛️ React, Next.js & TypeScript enthusiast  
+- 🧠 Love solving UI/UX & performance challenges  
+- 🔧 Experience with real-world dashboards & form-heavy apps  
 
 ---
 
 ## 🛠 Tech Stack
 
-**Frontend**
-- React.js, Next.js
-- TypeScript, JavaScript (ES6+)
-- HTML5, CSS3, MUI, Tailwind CSS
-
-**Backend**
-- Node.js, Express.js
-- MongoDB
-
-**Tools & Platforms**
-- Git & GitHub
-- Netlify, Vercel
-- REST APIs
-- TinyMCE, Uppy, Socket.io
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,materialui,nodejs,express,mongodb,git,github&perline=7" />
+</p>
 
 ---
 
-## 📌 What I’m Working On
+## 📌 Currently Working On
 
-- 🔹 Advanced React + TypeScript projects  
-- 🔹 Real-time & form-heavy applications  
-- 🔹 Scalable UI architectures  
-- 🔹 Improving performance & UX details  
-
----
-
-## 📈 GitHub Stats
-
-> Consistency > Perfection  
-> Always learning, always building 🚀
+- ⚡ Advanced React + TypeScript patterns  
+- 🔁 Real-time & scalable applications  
+- 🧩 Complex forms, editors & upload flows  
+- 🎯 Performance-focused UI development  
 
 ---
 
-## 🤝 Let’s Connect
+## 📊 GitHub Stats
 
-- 💼 LinkedIn: *https://www.linkedin.com/in/jenish-dayani/*
-- 🌐 Portfolio: *https://jenish-dayani.vercel.app/*
-- 📧 Email: *dayanijenish567@gmail.com*
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JenishDayani&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JenishDayani&theme=tokyonight" height="160" />
+</p>
 
 ---
 
-⭐ If you like my work, consider giving a star to my repositories!
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jenish-dayani/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  <a href="https://github.com/JenishDayani">
+    <img src="https://skillicons.dev/icons?i=github" height="40" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
